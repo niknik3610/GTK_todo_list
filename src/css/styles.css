@@ -1,0 +1,13 @@
+.title_text {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.new_task {
+}
+
+.add_item_textbox {
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
